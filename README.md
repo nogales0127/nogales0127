@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... en representar ala universidad en inter universidades
 - 🌱 I’m currently learning ...estoy aprendiendo a programar en java
 - 💞️ I’m looking to collaborate on ... en una gran empresa
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...3054537609
+- 😄 Pronouns:  nogales127
 - ⚡ Fun fact: ...
 
 <!---
